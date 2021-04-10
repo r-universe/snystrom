@@ -7,3 +7,7 @@
 	path = cmdfun
 	url = https://github.com/snystrom/cmdfun
 	shallow = true
+[submodule "memes"]
+	path = memes
+	url = https://github.com/snystrom/memes
+	shallow = true

@@ -1,0 +1,10 @@
+[
+  {
+    "package": "cmdfun",
+    "oncran": true
+  },
+  {
+    "package": "memes",
+    "oncran": true
+  }
+]

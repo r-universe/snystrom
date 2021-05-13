@@ -8,10 +8,8 @@
 	url = https://github.com/snystrom/cmdfun
 	shallow = true
 	registered = true
-	oncran = true
 [submodule "memes"]
 	path = memes
 	url = https://github.com/snystrom/memes
 	shallow = true
 	registered = true
-	oncran = true

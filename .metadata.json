@@ -2,5 +2,8 @@
   {
     "package": "cmdfun",
     "oncran": true
+  },
+  {
+    "package": "memes"
   }
 ]
